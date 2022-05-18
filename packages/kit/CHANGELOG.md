@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.335
+
+### Patch Changes
+
+- Fix default port override ([#4970](https://github.com/sveltejs/kit/pull/4970))
+
 ## 1.0.0-next.334
 
 ### Patch Changes
